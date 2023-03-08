@@ -1,0 +1,192 @@
+[
+  {
+    "id": 1,
+    "name": "Apple iPhone 13",
+    "description": "The latest and greatest iPhone from Apple.",
+    "image": "https://cdn.shopify.com/s/files/1/0568/5942/7015/products/MNGK3HN_A_1.png?v=1649048809",
+    "variants": [
+      {
+        "id": 1,
+        "name": "128GB",
+        "price": 999.99,
+        "limit": 2
+      },
+      {
+        "id": 2,
+        "name": "256GB",
+        "price": 1099.99,
+        "limit": 1
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Samsung Galaxy S23 Ultra",
+    "description": "5G capable, 6.8-inch Dynamic AMOLED 2X display, 5000mAh battery.",
+    "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/mobile/2/s/7/-original-imagmg6gktts6sfy.jpeg?q=70",
+    "variants": [
+      {
+        "id": 1,
+        "name": "128GB",
+        "price": 1199.99,
+        "limit": 3
+      },
+      {
+        "id": 2,
+        "name": "256GB",
+        "price": 1299.99,
+        "limit": 2
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "OnePlus 10",
+    "description": "A flagship smartphone from OnePlus.",
+
+    "image": "https://image01-in.oneplus.net/india-oneplus-statics-file/epb/202211/30/4TWtXaKpsZEnTUOI.png?x-amz-process=image/format,webp/quality,Q_80",
+    "variants": [
+      {
+        "id": 1,
+        "name": "128GB",
+        "price": 699.99,
+        "limit": 3
+      },
+      {
+        "id": 2,
+        "name": "256GB",
+        "price": 799.99,
+        "limit": 2
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Microsoft Xbox Series X",
+    "description": "The latest gaming console from Microsoft, featuring 4K graphics, and an extensive game library.",
+
+    "image": "https://assets.xboxservices.com/assets/fb/d2/fbd2cb56-5c25-414d-9f46-e6a164cdf5be.png?n=XBX_A-BuyBoxBGImage01-D.png",
+    "variants": [
+      {
+        "id": 1,
+        "name": "Standard",
+        "price": 499.99,
+        "limit": 1
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Samsung Galaxy S22",
+    "description": "The latest and greatest Samsung phone.",
+
+    "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRuDaLQGHgIwo0SgIVfA0I7eA7DfUw1IysT5QlGui7rQBjjPGGCC1R9RkxyA6FVzIEGNN-W4BiubBph5mYSSCYplawKBYku",
+    "variants": [
+      {
+        "id": 1,
+        "name": "128GB",
+        "price": 899.99,
+        "limit": 3
+      },
+      {
+        "id": 2,
+        "name": "256GB",
+        "price": 999.99,
+        "limit": 2
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Samsung Galaxy S21",
+    "description": "A premium Android smartphone from Samsung.",
+
+    "image": "https://images.samsung.com/is/image/samsung/p6pim/in/sm-g990elviinu/gallery/in-galaxy-s21-fe-g990-sm-g990elviinu-530606544?$650_519_PNG$",
+    "variants": [
+      {
+        "id": 1,
+        "name": "128GB",
+        "price": 799.99,
+        "limit": 3
+      },
+      {
+        "id": 2,
+        "name": "256GB",
+        "price": 899.99,
+        "limit": 2
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Sony PlayStation 5",
+    "description": "The latest gaming console from Sony.",
+
+    "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/gamingconsole/r/1/p/-original-imaghyyk5zct4duf.jpeg?q=70",
+    "variants": [
+      {
+        "id": 1,
+        "name": "Standard",
+        "price": 499.99,
+        "limit": 2
+      },
+      {
+        "id": 2,
+        "name": "Digital Edition",
+        "price": 399.99,
+        "limit": 1
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Amazon Echo Dot (4th Gen)",
+    "description": "A smart speaker with Alexa from Amazon.",
+
+    "image": "https://m.media-amazon.com/images/I/61EXU8BuGZL._SX679_.jpg",
+    "variants": [
+      {
+        "id": 1,
+        "name": "Charcoal",
+        "price": 49.99,
+        "limit": 5
+      },
+      {
+        "id": 2,
+        "name": "Glacier White",
+        "price": 49.99,
+        "limit": 5
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Samsung 65-inch 4K Smart TV",
+    "description": "A high-end 4K television from Samsung.",
+
+    "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/television/z/r/u/jsw65asuhdff-sansui-original-imagj8b8ypkughw3.jpeg?q=70",
+    "variants": [
+      {
+        "id": 1,
+        "name": "Black",
+        "price": 1199.99,
+        "limit": 1
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Dyson V11 Cordless Vacuum",
+    "description": "A powerful and versatile vacuum cleaner from Dyson.",
+
+    "image": "https://rukminim1.flixcart.com/image/832/832/ky1vl3k0/vacuum-cleaner/t/3/s/v8-absolute-cord-free-dyson-original-imagadhqfhwd8chd.jpeg?q=70",
+    "variants": [
+      {
+        "id": 1,
+        "name": "Nickel/Blue",
+        "price": 599.99,
+        "limit": 2
+      }
+    ]
+  }
+]
